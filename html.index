@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Tragic Story of Chloe</title>
+    <style>
+        body {
+            background-color: white;
+            color: black;
+            font-family: 'Georgia', serif;
+            line-height: 1.8;
+            margin: 0;
+            padding: 20px;
+        }
+        a {
+            color: red;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        h1 {
+            color: black;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        h2 {
+            color: black;
+            font-size: 1.8em;
+            margin-top: 30px;
+        }
+        p {
+            margin-bottom: 20px;
+        }
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .note {
+            font-style: italic;
+            color: gray;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>The Tragic Story of Chloe</h1>
+        <p>
+            Chloe was a young woman in her late twenties, known by those close to her as a kind, intelligent, and deeply empathetic soul. Despite her quiet demeanor, she had a profound impact on her community, often volunteering at shelters and tutoring children in her free time. But behind her warm smile was a profound struggle with mental health that few truly understood.
+        </p>
+        <p>
+            Raised by her uncle, Marshall, after losing her parents in a tragic car accident, Chloe carried the weight of grief and loneliness from a young age. Marshall, a retired school teacher, did everything he could to support her, often telling her that she was like a daughter to him. However, the pain Chloe endured seemed insurmountable, and over the years, it only grew more profound.
+        </p>
+        <p>
+            On the evening of February 15th, Chloe made a decision that would forever change the lives of those who loved her. She spent hours meticulously cleaning her small apartment, arranging her belongings as if preparing for someone else's visit. Before locking her bedroom door, she wrote a letter addressed to her beloved uncle, titled simply, <a href="https://youtube.com/watch?v=t4HZese8wXg&si=G-i0QWiLobJlrW1O" target="_blank">“For Marshall.”</a>
+        </p>
+        <p>
+            The next morning, Marshall arrived at Chloe's apartment as he often did, bringing her coffee and breakfast from the local diner. But this time, something felt wrong. The blinds were drawn tightly, and Chloe didn’t answer when he knocked. A sinking feeling gripped him as he used the spare key she had entrusted him with.
+        </p>
+        <p>
+            Inside, the apartment was eerily quiet. The scent of lavender, Chloe’s favorite candle, hung in the air. He called her name repeatedly, but there was no answer. When he reached her bedroom door, it was locked. Marshall’s heart raced as he pounded on the door, shouting her name. In a moment of desperation, he forced it open.
+        </p>
+        <p>
+            There, he found Chloe lying still on her bed. Her hands were folded over her chest, her face serene as though she were simply sleeping. Beside her lay a small envelope and a framed photograph of her parents. Marshall’s trembling hands reached for the envelope, which read: <a href="https://youtu.be/I1mOeAtPkgk?si=RSFtCFheBVR9bXkn" target="_blank">“Uncle Marshall – I’m Sorry.”</a>
+        </p>
+        <p>
+            The note began, “Dear Uncle Marshall, I want you to know that this is not your fault. You gave me more love than anyone ever could, and for that, I am eternally grateful. But I’ve been fighting a battle within myself for as long as I can remember, and I’m tired. Please forgive me for leaving this way.”
+        </p>
+        <p>
+            Overcome with grief, Marshall called the authorities, his voice trembling as he explained what had happened. The following days were a blur of sorrow, regret, and unanswered questions. Chloe’s friends and colleagues, shocked by the news, shared stories of her kindness and her ability to brighten any room she entered. Yet no one had truly seen the depth of her pain.
+        </p>
+        <p>
+            The funeral was held on a gray afternoon, with a small gathering of close friends and family. Marshall spoke through tears about the niece he had loved as a daughter, remembering her as a bright light in his life. He kept her final note close, a painful but cherished reminder of her love for him.
+        </p>
+        <h2>Mental Health Awareness</h2>
+        <p>
+            Chloe’s story serves as a tragic reminder of the silent battles many people face. Mental health struggles are often invisible, and it’s crucial to create spaces where individuals feel safe to share their feelings without fear of judgment. Simple acts of kindness, regular check-ins, and open conversations can make a significant difference.
+        </p>
+        <p class="note">
+            If you or someone you know is struggling with mental health, please seek help. There are resources and people who care about your well-being. You are never alone.
+        </p>
+    </div>
+</body>
+</html><ALOASK-SEPARATE-EDITORS><ALOASK-SEPARATE-EDITORS><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Tragic Story of Chloe</title>
+    <style>
+        body {
+            background-color: white;
+            color: black;
+            font-family: 'Georgia', serif;
+            line-height: 1.8;
+            margin: 0;
+            padding: 20px;
+            overflow-x: hidden;
+        }
+        a {
+            color: red;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        h1 {
+            color: black;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        p {
+            margin-bottom: 20px;
+        }
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        /* Secret smiley container */
+        #secret {
+            position: fixed;
+            bottom: 10px;
+            right: 10px;
+            display: none;
+            text-align: center;
+            z-index: 999;
+        }
+        #secret img {
+            background-color: black;
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+        }
+        #secret p {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 14px;
+            color: red;
+            animation: franticText 0.1s infinite;
+        }
+        /* Frantic text animation */
+        @keyframes franticText {
+            0% { transform: translateY(0); }
+            25% { transform: translateY(-5px); }
+            50% { transform: translateY(5px); }
+            75% { transform: translateY(-5px); }
+            100% { transform: translateY(0); }
+        }
+        /* Fade out animation */
+        @keyframes fadeOut {
+            to { opacity: 0; visibility: hidden; }
+        }
+        /* Glitching text */
+        #glitch {
+            display: none;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 2em;
+            font-weight: bold;
+            color: red;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            white-space: nowrap;
+            animation: glitch 0.3s infinite;
+        }
+        @keyframes glitch {
+            0% { transform: translate(-50%, -50%) skewX(0deg); }
+            25% { transform: translate(-48%, -52%) skewX(5deg); }
+            50% { transform: translate(-51%, -49%) skewX(-5deg); }
+            75% { transform: translate(-52%, -48%) skewX(3deg); }
+            100% { transform: translate(-50%, -50%) skewX(0deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>The Tragic Story of Chloe</h1>
+        <p>
+            Chloe was a young woman in her late twenties, known by those close to her as a kind, intelligent, and deeply empathetic soul...
+        </p>
+        <!-- Article continues... -->
+    </div>
+
+    <!-- Secret Smiley Section -->
+    <div id="secret">
+        <img src="file-6zoM2qoFCjVrSdzx5eXbga" alt="Hidden Smiley">
+        <p>2000-01-01 <br> 2025-01-01</p>
+    </div>
+    <div id="glitch">Marshall where are you :]</div>
+
+    <script>
+        // Show the secret smiley after 10 seconds
+        setTimeout(() => {
+            const secret = document.getElementById('secret');
+            secret.style.display = 'block';
+
+            // Fade out the smiley and birth/death dates after 10 seconds
+            setTimeout(() => {
+                secret.style.animation = 'fadeOut 2s forwards';
+
+                // Show glitching text
+                setTimeout(() => {
+                    const glitch = document.getElementById('glitch');
+                    glitch.style.display = 'block';
+
+                    // Crash the "web" by fading out everything
+                    setTimeout(() => {
+                        document.body.style.animation = 'fadeOut 2s forwards';
+                    }, 5000);
+                }, 2000);
+            }, 10000);
+        }, 10000);
+    </script>
+</body>
+</html>
